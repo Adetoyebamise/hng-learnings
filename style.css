@@ -1,0 +1,14 @@
+form div {
+  margin: 20px;
+}
+#header {
+  background-color: bisque;
+  padding: 18px;
+}
+div p {
+  color: rgba(42, 6, 51, 0.993);
+}
+#footer {
+  background-color: bisque;
+  padding: 10px;
+}
